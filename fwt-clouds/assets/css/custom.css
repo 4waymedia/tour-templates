@@ -1,0 +1,31 @@
+/**
+ * custom
+ * place custom style in this file
+ * add !important to the end if no effect
+ * e.g. color: #fff !important;
+ * --------------------------------------------------
+ *
+ */
+.is-site-bg-img .site-bg-img{
+	filter: blur(2px);
+}
+.section-table-cell{
+	padding: 0;
+}
+@media (min-width: 767px) {
+	.site-header-header{
+		padding-top: 15px;
+	}
+}
+
+.section{
+	top: 120px;
+}
+/* Increase Menu size for mobile */
+.fa {
+	font-size: 25px;
+}
+
+.row {
+	padding-bottom: 40px;
+}
